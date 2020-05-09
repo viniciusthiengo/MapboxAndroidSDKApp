@@ -4,7 +4,7 @@ Projeto Java Android do artigo [Iniciando com Mapbox Android SDK - Parte 1](http
 
 Artigo que apresenta em detalhes a API MapBox, API de mapas personalizados.
 
-<img src="https://www.thiengo.com.br/img/post/normal/sd7memlcde9fo8bqa67pjkrhg23fd931ba80024470e9cb2f78890f622d.png" height="220" alt="Aplicativo Android com a MapBox API">
+<img src="https://www.thiengo.com.br/img/post/normal/sd7memlcde9fo8bqa67pjkrhg23fd931ba80024470e9cb2f78890f622d.png" width="220" alt="Aplicativo Android com a MapBox API">
 
 O conteúdo do artigo também está disponível em vídeo (logo ao final do artigo).
 
